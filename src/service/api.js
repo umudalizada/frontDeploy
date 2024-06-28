@@ -1,0 +1,1 @@
+export const BaseUrl="https://apii-deploy.onrender.com/api/"
